@@ -1,0 +1,1 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\02. CompanyInformation\bin\Debug\_02.CompanyInformation.exe.config

@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\LoopsHomework\02. NumbersNotDivisibleBy3And7\bin\Debug\_02.NumbersNotDivisibleBy3And7.exe
+D:\projects\visual studio projects\LoopsHomework\02. NumbersNotDivisibleBy3And7\bin\Debug\_02.NumbersNotDivisibleBy3And7.pdb
+D:\projects\visual studio projects\LoopsHomework\02. NumbersNotDivisibleBy3And7\obj\Debug\_02.NumbersNotDivisibleBy3And7.exe
+D:\projects\visual studio projects\LoopsHomework\02. NumbersNotDivisibleBy3And7\obj\Debug\_02.NumbersNotDivisibleBy3And7.pdb

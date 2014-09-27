@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\06. BooleanVariable.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.pdb

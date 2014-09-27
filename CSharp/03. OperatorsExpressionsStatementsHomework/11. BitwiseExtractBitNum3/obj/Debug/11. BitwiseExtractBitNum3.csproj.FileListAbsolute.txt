@@ -1,0 +1,6 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\bin\Debug\_11.BitwiseExtractBitNum3.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\bin\Debug\_11.BitwiseExtractBitNum3.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\obj\Debug\_11.BitwiseExtractBitNum3.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\obj\Debug\_11.BitwiseExtractBitNum3.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\obj\Debug\_11.BitwiseExtractBitNum3.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\11. BitwiseExtractBitNum3\obj\Debug\_11.BitwiseExtractBitNum3.pdb

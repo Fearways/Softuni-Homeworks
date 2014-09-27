@@ -1,0 +1,4 @@
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.pdb
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07. SumOf5Numbers\obj\Debug\_07.SumOf5Numbers.pdb

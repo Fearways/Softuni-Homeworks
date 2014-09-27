@@ -1,0 +1,6 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\bin\Debug\_10.JoinLists.exe.config
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\obj\Debug\10. JoinLists.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\bin\Debug\_10.JoinLists.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\bin\Debug\_10.JoinLists.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\obj\Debug\_10.JoinLists.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\10. JoinLists\obj\Debug\_10.JoinLists.pdb

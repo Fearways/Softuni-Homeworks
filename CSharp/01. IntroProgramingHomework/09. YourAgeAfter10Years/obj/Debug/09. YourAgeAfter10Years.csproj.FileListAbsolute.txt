@@ -1,0 +1,7 @@
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.exe
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.exe
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\obj\Debug\09. YourAgeAfter10Years.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\IntroProgramingHomework\09. YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.exe
+D:\projects\visual studio projects\IntroProgramingHomework\09. YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.pdb

@@ -1,0 +1,10 @@
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+D:\projects\visual studio projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+D:\projects\visual studio projects\ConsoleInputOutputHomework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache

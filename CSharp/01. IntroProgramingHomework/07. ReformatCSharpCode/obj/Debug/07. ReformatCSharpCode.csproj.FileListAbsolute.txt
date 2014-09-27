@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\IntroProgramingHomework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\projects\visual studio projects\IntroProgramingHomework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\07. ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\projects\visual studio projects\IntroProgramingHomework\07. ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

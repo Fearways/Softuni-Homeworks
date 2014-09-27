@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\IntroProgramingHomework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\projects\visual studio projects\IntroProgramingHomework\SquareRoot\obj\Debug\SquareRoot.pdb

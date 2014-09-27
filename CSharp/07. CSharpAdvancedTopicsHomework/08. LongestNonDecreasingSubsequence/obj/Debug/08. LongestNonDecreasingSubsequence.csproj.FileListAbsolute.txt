@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\08. LongestNonDecreasingSubsequence\bin\Debug\_08.LongestNonDecreasingSubsequence.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\08. LongestNonDecreasingSubsequence\bin\Debug\_08.LongestNonDecreasingSubsequence.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\08. LongestNonDecreasingSubsequence\obj\Debug\_08.LongestNonDecreasingSubsequence.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\08. LongestNonDecreasingSubsequence\obj\Debug\_08.LongestNonDecreasingSubsequence.pdb

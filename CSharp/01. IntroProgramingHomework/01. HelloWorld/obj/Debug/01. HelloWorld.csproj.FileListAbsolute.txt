@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\obj\Debug\HelloWorld.exe
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\01. HelloWorld\obj\Debug\HelloWorld.exe
+D:\projects\visual studio projects\IntroProgramingHomework\01. HelloWorld\obj\Debug\HelloWorld.pdb

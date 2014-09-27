@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.pdb

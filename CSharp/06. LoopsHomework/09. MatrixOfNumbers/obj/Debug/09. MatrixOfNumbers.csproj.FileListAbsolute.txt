@@ -1,0 +1,6 @@
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\obj\Debug\09. MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+D:\projects\visual studio projects\LoopsHomework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

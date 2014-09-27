@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\16. BitsExchange2\bin\Debug\_16.BitsExchange2.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\16. BitsExchange2\bin\Debug\_16.BitsExchange2.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\16. BitsExchange2\obj\Debug\16. BitsExchange2.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\16. BitsExchange2\obj\Debug\_16.BitsExchange2.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\16. BitsExchange2\obj\Debug\_16.BitsExchange2.pdb

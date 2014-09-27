@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\UnicodeValue\bin\Debug\UnicodeValue.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\UnicodeValue\bin\Debug\UnicodeValue.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\UnicodeValue\obj\Debug\UnicodeValue.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\UnicodeValue\obj\Debug\UnicodeValue.pdb

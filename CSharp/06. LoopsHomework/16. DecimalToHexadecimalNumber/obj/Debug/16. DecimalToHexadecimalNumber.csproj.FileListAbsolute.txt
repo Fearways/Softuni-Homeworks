@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\LoopsHomework\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe.config
+D:\projects\visual studio projects\LoopsHomework\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe
+D:\projects\visual studio projects\LoopsHomework\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.pdb
+D:\projects\visual studio projects\LoopsHomework\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.exe
+D:\projects\visual studio projects\LoopsHomework\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.pdb

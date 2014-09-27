@@ -1,0 +1,5 @@
+ѕод windows среда
+1. cd до директори€та или през file explorer, shift + десен бутон + open new command prompt window here
+2. set path=%path%;C:Program Files\Java\jdk1.8.0_20\bin
+3. javac _06_SumTwoNumbers.java
+4. java _06_SumTwoNumbers

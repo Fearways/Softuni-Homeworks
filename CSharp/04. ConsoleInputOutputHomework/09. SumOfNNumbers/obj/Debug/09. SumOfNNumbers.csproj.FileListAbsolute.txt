@@ -1,0 +1,4 @@
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+C:\Users\lubomir\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

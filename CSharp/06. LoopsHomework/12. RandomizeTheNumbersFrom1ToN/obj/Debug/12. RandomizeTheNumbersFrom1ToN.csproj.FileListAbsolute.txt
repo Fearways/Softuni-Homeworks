@@ -1,0 +1,6 @@
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\bin\Debug\_12.RandomizeTheNumbersFrom1ToN.exe.config
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\bin\Debug\_12.RandomizeTheNumbersFrom1ToN.exe
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\bin\Debug\_12.RandomizeTheNumbersFrom1ToN.pdb
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\obj\Debug\12. RandomizeTheNumbersFrom1ToN.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\obj\Debug\_12.RandomizeTheNumbersFrom1ToN.exe
+D:\projects\visual studio projects\LoopsHomework\12. RandomizeTheNumbersFrom1ToN\obj\Debug\_12.RandomizeTheNumbersFrom1ToN.pdb

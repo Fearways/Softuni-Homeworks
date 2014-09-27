@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\IntroProgramingHomework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\projects\visual studio projects\IntroProgramingHomework\PrintMyName\obj\Debug\PrintMyName.pdb

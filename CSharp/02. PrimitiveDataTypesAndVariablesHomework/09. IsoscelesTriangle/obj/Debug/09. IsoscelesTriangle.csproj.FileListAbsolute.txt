@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

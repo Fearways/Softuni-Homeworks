@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\LoopsHomework\Problem 7. Calculate N!(K!(N-K)!)\obj\Debug\Problem_7.Calculate_N__K__N_K___.exe
+D:\projects\visual studio projects\LoopsHomework\Problem 7. Calculate N!(K!(N-K)!)\obj\Debug\Problem_7.Calculate_N__K__N_K___.pdb
+D:\projects\visual studio projects\LoopsHomework\07. CalculateN!(K!(N-K)!)\obj\Debug\Problem_7.Calculate_N__K__N_K___.exe
+D:\projects\visual studio projects\LoopsHomework\07. CalculateN!(K!(N-K)!)\obj\Debug\Problem_7.Calculate_N__K__N_K___.pdb

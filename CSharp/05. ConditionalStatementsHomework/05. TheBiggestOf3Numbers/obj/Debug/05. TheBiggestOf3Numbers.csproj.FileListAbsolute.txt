@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\05. TheBiggestOf3Numbers\obj\Debug\_05.TheBiggestOf3Numbers.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\05. TheBiggestOf3Numbers\obj\Debug\_05.TheBiggestOf3Numbers.pdb

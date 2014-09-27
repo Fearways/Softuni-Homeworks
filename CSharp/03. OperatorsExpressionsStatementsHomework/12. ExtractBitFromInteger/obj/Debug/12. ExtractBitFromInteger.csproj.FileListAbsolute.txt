@@ -1,0 +1,6 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

@@ -1,0 +1,10 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\bin\Debug\_06.Four_DigitNumber.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\bin\Debug\_06.Four_DigitNumber.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\06. Four-DigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\_06.Four_DigitNumber.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\_06.Four_DigitNumber.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\_06.Four_DigitNumber.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\_06.Four_DigitNumber.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\bin\Debug\_06.Four_DigitNumber.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\bin\Debug\_06.Four_DigitNumber.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\06. Four-DigitNumber\obj\Debug\06. Four-DigitNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\14. LongestWordInText\bin\Debug\_14.LongestWordInText.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\14. LongestWordInText\bin\Debug\_14.LongestWordInText.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\14. LongestWordInText\obj\Debug\_14.LongestWordInText.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\14. LongestWordInText\obj\Debug\_14.LongestWordInText.pdb

@@ -1,0 +1,10 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\12. FallingRocks\bin\Debug\_12.FallingRocks.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\12. FallingRocks\bin\Debug\_12.FallingRocks.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\_12.FallingRocks.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\_12.FallingRocks.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\_12.FallingRocks.exe
+D:\projects\visual studio projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\_12.FallingRocks.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\12. FallingRocks\bin\Debug\_12.FallingRocks.exe
+D:\projects\visual studio projects\ConsoleInputOutputHomework\12. FallingRocks\bin\Debug\_12.FallingRocks.pdb
+D:\projects\visual studio projects\ConsoleInputOutputHomework\12. FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache

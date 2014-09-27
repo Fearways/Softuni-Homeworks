@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

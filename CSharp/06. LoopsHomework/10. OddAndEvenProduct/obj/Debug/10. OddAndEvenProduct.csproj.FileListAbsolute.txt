@@ -1,0 +1,6 @@
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+D:\projects\visual studio projects\LoopsHomework\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb

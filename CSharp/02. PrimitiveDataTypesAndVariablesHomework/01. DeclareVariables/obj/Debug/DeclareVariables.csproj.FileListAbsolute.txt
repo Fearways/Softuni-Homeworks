@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb

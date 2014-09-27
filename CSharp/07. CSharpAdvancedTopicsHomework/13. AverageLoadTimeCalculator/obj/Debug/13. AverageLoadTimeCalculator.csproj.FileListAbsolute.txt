@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.pdb

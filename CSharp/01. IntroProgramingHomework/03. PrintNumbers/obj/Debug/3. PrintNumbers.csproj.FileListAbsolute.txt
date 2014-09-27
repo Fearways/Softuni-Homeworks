@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\IntroProgramingHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\projects\visual studio projects\IntroProgramingHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

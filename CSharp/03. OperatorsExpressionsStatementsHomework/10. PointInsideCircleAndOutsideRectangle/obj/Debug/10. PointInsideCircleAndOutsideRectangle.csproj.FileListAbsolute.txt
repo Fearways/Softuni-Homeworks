@@ -1,0 +1,7 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\bin\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\10. PointInsideCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\10. PointInsideCircleAndOutsideRectangle\obj\Debug\_10.PointInsideCircleAndOutsideRectangle.pdb

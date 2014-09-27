@@ -1,0 +1,7 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\13. NullValuesArithmetic.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\13. NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\13. NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\10. BeerTime\bin\Debug\_10.BeerTime.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\10. BeerTime\bin\Debug\_10.BeerTime.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\10. BeerTime\obj\Debug\10. BeerTime.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\ConditionalStatementsHomework\10. BeerTime\obj\Debug\_10.BeerTime.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\10. BeerTime\obj\Debug\_10.BeerTime.pdb

@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\bin\Debug\HelloWorld.exe
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\obj\Debug\HelloWorld.exe
+D:\projects\visual studio projects\IntroProgramingHomework\HelloWorld\obj\Debug\HelloWorld.pdb

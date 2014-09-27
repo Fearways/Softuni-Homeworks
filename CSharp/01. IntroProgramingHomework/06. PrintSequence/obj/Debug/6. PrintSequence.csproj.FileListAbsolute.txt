@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\IntroProgramingHomework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\projects\visual studio projects\IntroProgramingHomework\PrintSequence\obj\Debug\PrintSequence.pdb

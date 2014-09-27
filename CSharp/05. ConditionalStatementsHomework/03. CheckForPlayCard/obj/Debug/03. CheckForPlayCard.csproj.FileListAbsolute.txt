@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.pdb

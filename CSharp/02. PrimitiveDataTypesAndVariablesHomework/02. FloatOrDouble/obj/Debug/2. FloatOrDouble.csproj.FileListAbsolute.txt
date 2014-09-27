@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

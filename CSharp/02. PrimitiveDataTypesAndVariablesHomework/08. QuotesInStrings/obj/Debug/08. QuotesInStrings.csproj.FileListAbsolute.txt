@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

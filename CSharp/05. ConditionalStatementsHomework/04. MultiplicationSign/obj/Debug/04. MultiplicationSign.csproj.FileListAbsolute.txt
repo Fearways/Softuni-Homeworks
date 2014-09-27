@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
+D:\projects\visual studio projects\ConditionalStatementsHomework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

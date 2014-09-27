@@ -1,0 +1,4 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.pdb

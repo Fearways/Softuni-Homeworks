@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\06. TheBiggestOfFiveNumbers\obj\Debug\_06.TheBiggestOfFiveNumbers.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\06. TheBiggestOfFiveNumbers\obj\Debug\_06.TheBiggestOfFiveNumbers.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\06. TheBiggestOfFiveNumbers\obj\Debug\06. TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache

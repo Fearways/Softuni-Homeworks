@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\bin\Debug\CurrentDate.exe
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\bin\Debug\CurrentDate.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\obj\Debug\CurrentDate.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\obj\Debug\CurrentDate.exe
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\obj\Debug\CurrentDate.pdb

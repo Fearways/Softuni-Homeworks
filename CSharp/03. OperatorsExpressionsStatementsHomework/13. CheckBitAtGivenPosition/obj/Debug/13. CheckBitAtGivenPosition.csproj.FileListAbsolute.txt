@@ -1,0 +1,9 @@
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.pdb
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.exe
+C:\Users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.exe
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.pdb
+D:\projects\visual studio projects\OperatorsExpressionsStatementsHomework\13. CheckBitAtGivenPosition\obj\Debug\13. CheckBitAtGivenPosition.csprojResolveAssemblyReference.cache

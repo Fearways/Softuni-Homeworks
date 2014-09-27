@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\ConditionalStatementsHomework\02. BonusScore\bin\Debug\_02.BonusScore.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\02. BonusScore\bin\Debug\_02.BonusScore.pdb
+D:\projects\visual studio projects\ConditionalStatementsHomework\02. BonusScore\obj\Debug\_02.BonusScore.exe
+D:\projects\visual studio projects\ConditionalStatementsHomework\02. BonusScore\obj\Debug\_02.BonusScore.pdb

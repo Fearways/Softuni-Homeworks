@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\obj\Debug\CurrentDate.exe
+D:\projects\visual studio projects\IntroProgramingHomework\CurrentDate\obj\Debug\CurrentDate.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\08. CurrentDate\obj\Debug\CurrentDate.exe
+D:\projects\visual studio projects\IntroProgramingHomework\08. CurrentDate\obj\Debug\CurrentDate.pdb

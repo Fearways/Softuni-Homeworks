@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.exe
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\obj\Debug\YourAgeAfter10Years.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.exe
+D:\projects\visual studio projects\IntroProgramingHomework\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.pdb

@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\16. CountingWordsInText\bin\Debug\_16.CountingWordsInText.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\16. CountingWordsInText\bin\Debug\_16.CountingWordsInText.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\16. CountingWordsInText\obj\Debug\_16.CountingWordsInText.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\16. CountingWordsInText\obj\Debug\_16.CountingWordsInText.pdb

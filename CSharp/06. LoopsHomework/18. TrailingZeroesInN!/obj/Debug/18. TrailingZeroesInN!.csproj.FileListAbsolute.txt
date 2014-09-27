@@ -1,0 +1,6 @@
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.exe.config
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.exe
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.pdb
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\obj\Debug\18. TrailingZeroesInN!.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.exe
+D:\projects\visual studio projects\LoopsHomework\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.pdb

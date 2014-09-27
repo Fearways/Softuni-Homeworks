@@ -1,0 +1,4 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.pdb

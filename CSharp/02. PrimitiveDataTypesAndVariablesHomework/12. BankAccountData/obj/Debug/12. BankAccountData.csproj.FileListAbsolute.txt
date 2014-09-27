@@ -1,0 +1,2 @@
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.exe
+D:\projects\visual studio projects\PrimitiveDataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.pdb

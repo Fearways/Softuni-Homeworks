@@ -1,0 +1,7 @@
+D:\projects\visual studio projects\IntroProgramingHomework\LongSequence\obj\Debug\LongSequence.exe
+D:\projects\visual studio projects\IntroProgramingHomework\LongSequence\obj\Debug\LongSequence.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\LongSequence\bin\Debug\LongSequence.exe
+D:\projects\visual studio projects\IntroProgramingHomework\LongSequence\bin\Debug\LongSequence.pdb
+D:\projects\visual studio projects\IntroProgramingHomework\LongSequence\obj\Debug\10. LongSequence.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\IntroProgramingHomework\10. LongSequence\obj\Debug\LongSequence.exe
+D:\projects\visual studio projects\IntroProgramingHomework\10. LongSequence\obj\Debug\LongSequence.pdb

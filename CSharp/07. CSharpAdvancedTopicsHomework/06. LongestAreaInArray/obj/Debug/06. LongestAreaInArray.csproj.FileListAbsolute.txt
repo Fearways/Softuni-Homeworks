@@ -1,0 +1,5 @@
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.pdb
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\06. LongestAreaInArray\obj\Debug\06. LongestAreaInArray.csprojResolveAssemblyReference.cache
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.exe
+D:\projects\visual studio projects\CSharpAdvancedTopicsHomework\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.pdb
