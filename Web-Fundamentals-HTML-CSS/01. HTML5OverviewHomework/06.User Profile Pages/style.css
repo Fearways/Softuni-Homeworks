@@ -1,0 +1,19 @@
+body {
+    background-color: #add8e6;
+}
+
+.profile {
+    font-weight: bold;
+}
+
+.friends {
+    font-style: italic;
+}
+
+.indentation {
+    margin-left: 40px;
+}
+
+ul {
+    list-style-type: disc;
+}
